@@ -16,6 +16,8 @@
 
 **Step 4.** Create a new PR with meaningful description.
 
+Being a writer comes with perks, like working independently, endless potential for income, and the fulfillment of producing something creative and unique.
+
  `Pesto Username - Favourite Author`
 
 ## Entries
@@ -23,3 +25,5 @@
 arfat - Neal Stephenson
 
 nikhil - J.K. Rowling
+anshuman - Paulo Coelho
+nishant - Daniel Kahneman
