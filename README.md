@@ -20,8 +20,12 @@ Being a writer comes with perks, like working independently, endless potential f
 
  `Pesto Username - Favourite Author`
 
-## Entries 
+## Entries
 
 arfat - Neal Stephenson
+
+nikhil - J.K. Rowling
+
 anshuman - Paulo Coelho
+
 nishant - Daniel Kahneman
