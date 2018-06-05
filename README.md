@@ -37,8 +37,16 @@ anshuman2 - Paulo Coelho again
 
 <<<<<<< HEAD
 kundanvishen - John Doe
+<<<<<<< HEAD
 =======
 =======
 Monis - Jeffery Archer
 >>>>>>> Monis Added Favourite Author
 >>>>>>> Monis Added Favourite Author
+=======
+
+aditya- Tim Ferris
+
+anshuman2 - Paulo Coelho again
+
+>>>>>>> 30f4060... Changes made
