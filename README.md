@@ -23,4 +23,5 @@ Being a writer comes with perks, like working independently, endless potential f
 ## Entries 
 
 arfat - Neal Stephenson
+anshuman - Paulo Coelho
 nishant - Daniel Kahneman
