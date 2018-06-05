@@ -18,6 +18,7 @@
 
  `Pesto Username - Favourite Author`
 
-## Entries 
+## Entries
 
 arfat - Neal Stephenson
+nikhil - J.K. Rowling
