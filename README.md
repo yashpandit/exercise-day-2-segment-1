@@ -32,21 +32,22 @@ nishant - Daniel Kahneman
 
 navneet - Shakespeare
 
-<<<<<<< HEAD
 anshuman2 - Paulo Coelho again
 
-<<<<<<< HEAD
+rajul - Paulo Coehlo third time
+
 kundanvishen - John Doe
-<<<<<<< HEAD
-=======
-=======
+
+rajul-fav-author
+
 Monis - Jeffery Archer
->>>>>>> Monis Added Favourite Author
->>>>>>> Monis Added Favourite Author
-=======
+
+rajul - paulo caehlo
+
+rajul - paulo caehlo, no one
+
+Monis - Jeffery Archer
 
 aditya- Tim Ferris
 
 anshuman2 - Paulo Coelho again
-
->>>>>>> 30f4060... Changes made
