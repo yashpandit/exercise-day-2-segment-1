@@ -21,3 +21,4 @@
 ## Entries 
 
 arfat - Neal Stephenson
+nishant - Daniel Kahneman
