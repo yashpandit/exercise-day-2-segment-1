@@ -32,6 +32,13 @@ nishant - Daniel Kahneman
 
 navneet - Shakespeare
 
+<<<<<<< HEAD
 anshuman2 - Paulo Coelho again
 
+<<<<<<< HEAD
 kundanvishen - John Doe
+=======
+=======
+Monis - Jeffery Archer
+>>>>>>> Monis Added Favourite Author
+>>>>>>> Monis Added Favourite Author
