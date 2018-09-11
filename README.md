@@ -20,7 +20,7 @@
 ## Entries
 
 arfat - Neal Stephenson
-This is a new line - Remove it
+This is a new line
 This is an extra line too
 andrew - Robert M. Pirsig
 Random line 
