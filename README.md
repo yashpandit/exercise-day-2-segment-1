@@ -19,12 +19,9 @@
 
 ## Entries
 
-arfat - Neal Stephenson
-This is a new line
-This is an extra line too
-andrew - Robert M. Pirsig
-Random line 
-nishant - daniel kahneman
-anirudh - Phil Knight
-Vipul - Richard Dawkins
-shashank36- Dan Brown
+**arfat** - Neal Stephenson/Bill Bryson  
+**andrew** - Robert M. Pirsig  
+**nishant** - daniel kahneman  
+**anirudh** - Phil Knight  
+**Vipul** - Richard Dawkins  
+**shashank36** - Dan Brown  
