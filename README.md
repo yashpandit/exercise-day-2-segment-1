@@ -32,4 +32,5 @@ Line 2
 A new line? Preserve it!  
 Yet another new line? Preserve it!
 Write your authors below -  
-**Rishabh1403** - Sir Aurthur Conan Doyle
+**Rishabh1403** - Sir Aurthur Conan Doyle  
+**niinpatel** - George Orwell
