@@ -38,6 +38,9 @@ Line 2
 A new line? Preserve it!  
 Yet another new line? Preserve it!
 Write your authors below -  
+**Rishabh1403** - Sir Aurthur Conan Doyle  
+**niinpatel** - George Orwell  
+**vikash** - Charlie Brooker
 
 **Preserve these random numbers**  
 33072219  
@@ -51,3 +54,5 @@ Write your authors below -
 0.5234215311848476   
 0.024595933406860837     
 0.8131628889806362   
+
+**Prabhakar-Poudel** - Robert Louis Stevenson
