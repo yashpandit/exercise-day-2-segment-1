@@ -41,7 +41,13 @@ Write your authors below -
 88405225   
 50751467     
 53008897   
-34740365 
-**Shalini** - J.K Rowling
-**Ankit** -Tony Robbins
-**shivangg** - Alfred Hitchcock
+34740365  
+**Shalini** - J.K Rowling  
+**Ankit** -Tony Robbins  
+**shivangg** - Alfred Hitchcock  
+
+**Preserve these fractional random numbers**  
+0.8790859618575548  
+0.5234215311848476   
+0.024595933406860837     
+0.8131628889806362   
