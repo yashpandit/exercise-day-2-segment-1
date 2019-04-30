@@ -36,7 +36,7 @@
 **vikash** - Charlie Brooker  
 **Prabhakar-Poudel** - Robert Louis Stevenson
 
-**Preserve the random words - **  
+**Preserve the random words -**  
 pause  
 girls  
 flagrant  
