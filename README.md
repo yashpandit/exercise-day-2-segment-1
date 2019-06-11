@@ -45,3 +45,10 @@ heat
 flowery  
 deadpan  
 brush  
+ancient  
+deceive  
+violet  
+channel  
+ghost  
+exciting  
+reach  
