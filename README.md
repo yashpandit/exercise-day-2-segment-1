@@ -36,6 +36,7 @@
 **vikash** - Charlie Brooker  
 **Prabhakar-Poudel** - Robert Louis Stevenson  
 **Manish** - Robin Sharma  
+**rakeshtembhurne** - Stephen R. Covey
 
 # Preserve these new lines -
 ## Your name has to come at the bottom of this text
