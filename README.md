@@ -41,22 +41,22 @@
 
 # Preserve these random words
 
-error
-therapist
-father
-increase
-scrap
-hurl
-spokesperson
-thumb
-young
-habitat
-shop
-apple
-concentration
-sequence
-wording
-sell
-breeze
+error  
+therapist  
+father  
+increase  
+scrap  
+hurl  
+spokesperson  
+thumb  
+young  
+habitat  
+shop  
+apple  
+concentration  
+sequence  
+wording  
+sell  
+breeze  
 
 # Batch 9 - Put your authors below this line
