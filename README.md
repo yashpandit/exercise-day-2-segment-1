@@ -38,6 +38,7 @@
 **Manish** - Robin Sharma  
 **rakeshtembhurne** - Stephen R. Covey  
 **Jaspreet Singh** - Kathy Sierra
+**avinash360** - Alexandre Dumas
 
 # Preserve these new lines -
 ## Your name has to come at the bottom of this text
@@ -58,3 +59,5 @@ reach
 **Test** - Test Author  
 
 sumeetrohra - Mark Manson
+
+**kanavaz** - Ben Horowitz/DHH 
