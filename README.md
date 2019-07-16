@@ -49,6 +49,10 @@ scrap
 hurl
 spokesperson
 thumb
+young
+habitat
+shop
+apple
 concentration
 sequence
 wording
