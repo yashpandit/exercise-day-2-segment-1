@@ -63,5 +63,5 @@ breeze
 
 # Batch 9 - Put your authors below this line
 **kanavaz** - Ben Horowitz/DHH  
-**Karan** - Sir Arthur Conan Doyle
+**Karan** - Sir Arthur Conan Doyle  
 **Navneet** - Leo Tolstoy
