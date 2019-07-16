@@ -40,7 +40,6 @@
 |**Manish** | Robin Sharma  |
 |**rakeshtembhurne** | Stephen R. Covey  |
 |**Jaspreet Singh** | Kathy Sierra|
-|**Karan Sapolia** | Sir Arthur Conan Doyle |
 
 # Preserve these random words
 
