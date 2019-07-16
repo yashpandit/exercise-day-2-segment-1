@@ -40,6 +40,7 @@
 |**Manish** | Robin Sharma  |
 |**rakeshtembhurne** | Stephen R. Covey  |
 |**Jaspreet Singh** | Kathy Sierra|
+|**Karan Sapolia** | Sir Arthur Conan Doyle |
 
 # Preserve these random words
 
@@ -63,3 +64,4 @@ breeze
 
 # Batch 9 - Put your authors below this line
 **kanavaz** - Ben Horowitz/DHH  
+**Karan** - Sir Arthur Conan Doyle
