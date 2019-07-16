@@ -64,4 +64,3 @@ breeze
 # Batch 9 - Put your authors below this line
 **kanavaz** - Ben Horowitz/DHH  
 **Karan** - Sir Arthur Conan Doyle
-**sumeetrohra** - Mark Manson
