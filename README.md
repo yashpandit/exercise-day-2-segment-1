@@ -38,7 +38,6 @@
 **Manish** - Robin Sharma  
 **rakeshtembhurne** - Stephen R. Covey  
 **Jaspreet Singh** - Kathy Sierra
-**avinash360** - Alexandre Dumas
 
 # Preserve these random words
 
