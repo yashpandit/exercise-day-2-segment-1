@@ -44,6 +44,9 @@
 error
 therapist
 father
+increase
+scrap
+hurl
 spokesperson
 thumb
 concentration
