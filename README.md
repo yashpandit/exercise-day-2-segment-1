@@ -39,20 +39,17 @@
 **rakeshtembhurne** - Stephen R. Covey  
 **Jaspreet Singh** - Kathy Sierra
 
-# Preserve these new lines -
-## Your name has to come at the bottom of this text
+# Preserve these random words
 
-unique  
-heat  
-flowery  
-deadpan  
-brush  
-ancient  
-deceive  
-violet  
-channel  
-ghost  
-exciting  
-reach  
+error
+therapist
+father
+spokesperson
+thumb
+concentration
+sequence
+wording
+sell
+breeze
 
-**Test** - Test Author  
+# Batch 9 - Put your authors below this line
