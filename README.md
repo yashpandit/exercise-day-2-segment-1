@@ -40,28 +40,8 @@
 |**Manish** | Robin Sharma  |
 |**rakeshtembhurne** | Stephen R. Covey  |
 |**Jaspreet Singh** | Kathy Sierra|
+|**kanavaz** | Ben Horowitz/DHH |
+|**Karan** | Sir Arthur Conan Doyle  |
+|**Navneet** | Leo Tolstoy |
 
-# Preserve these random words
-
-error  
-therapist  
-father  
-increase  
-scrap  
-hurl  
-spokesperson  
-thumb  
-young  
-habitat  
-shop  
-apple  
-concentration  
-sequence  
-wording  
-sell  
-breeze  
-
-# Batch 9 - Put your authors below this line
-**kanavaz** - Ben Horowitz/DHH  
-**Karan** - Sir Arthur Conan Doyle  
-**Navneet** - Leo Tolstoy
+# Batch 10 - Put your authors below this line
